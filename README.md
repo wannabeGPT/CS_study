@@ -18,6 +18,7 @@
 * [주제별 CS 정리](https://gyoogle.dev/blog/)
 * [CS 주제 마인드맵](https://gitmind.com/app/docs/mgackf37)
 * [기술면접 빈출 질문](https://garden1500.tistory.com/11)
+* [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 
 ## 1회차 주제
 ### `Web`
