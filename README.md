@@ -20,7 +20,7 @@
 * [기술면접 빈출 질문](https://garden1500.tistory.com/11)
 
 ## 1회차 주제
-* `Web`
+### `Web`
 1. 브라우저 동작 방법
 2. 쿠키 & 세션
 3. HTTP Request Methods
