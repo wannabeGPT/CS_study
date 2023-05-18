@@ -1,5 +1,10 @@
 # CS study
 
+## 규칙
+* 주제에 따른 정리는 개인 폴더에 정리
+* 이슈에 등록된 해당 회차의 주제에 질문 등록
+* 미팅 시 이슈에서 선별한 질문 + @
+
 ## 멤버
 * 최규헌
 * 김태현
@@ -8,6 +13,11 @@
 
 ## 미팅
 * 매주 `목 18시 역삼`, `일 11시 서울대입구`
+
+## 참고 링크
+* [주제별 CS 정리](https://gyoogle.dev/blog/)
+* [CS 주제 마인드맵](https://gitmind.com/app/docs/mgackf37)
+* [기술면접 빈출 질문](https://garden1500.tistory.com/11)
 
 ## 1회차 주제
 * `Web`
@@ -19,4 +29,3 @@
 6. Web Server와 WAS
 7. OAuth
 8. JWT
-
