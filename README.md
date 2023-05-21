@@ -25,15 +25,13 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 1회차 주제
-
+## 2회차 주제
 ### `Web`
-
-1. 브라우저 동작 방법
-2. 쿠키 & 세션
-3. HTTP Request Methods
-4. HTTP status code
-5. REST API
-6. Web Server와 WAS
-7. OAuth
-8. JWT
+1. 인증 방식
+2. 로깅 레벨(Logging Level)
+3. UI / UX
+4. CSR & SSR
+5. 네이티브 앱 & 웹 앱 & 하이브리드 앱
+6. Vue.js와 React
+7. PWA(Progressive Web App)
+8. CSRF & XSS
