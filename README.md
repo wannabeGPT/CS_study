@@ -25,7 +25,7 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 2회차 주제
+## 2회차 주제 (6월 1일)
 ### `Web`
 1. 인증 방식
 2. 로깅 레벨(Logging Level)
