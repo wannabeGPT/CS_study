@@ -25,14 +25,16 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 2회차 주제 (6월 1일)
-### `Web`
-1. 인증 방식
-2. 로깅 레벨(Logging Level)
-3. UI / UX
-4. CSR & SSR
-5. 네이티브 앱 & 웹 앱 & 하이브리드 앱
-6. Vue.js와 React
-7. PWA(Progressive Web App)
-8. CSRF & XSS
+## 3회차 주제 (6월 4일)
+### `Computer Science - Data Structure`
+1. 배열(Array)
+2. 연결 리스트(Linked List)
+3. Array & ArrayList & LinkedList
+4. 스택 :& 큐
+5. 힙(Heap)
+6. 트리(Tree)
+7. 이진 탐색 트리
+8. 해시(Hash)
+9. 트라이(Trie)
+10. B Tree & B+ Tree
 
