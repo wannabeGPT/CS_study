@@ -25,7 +25,8 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 4회차 주제 (6월 8일)
-### `인성 면접`
+## 5회차 주제 (6월 11일)
+### `Language`
 
-* [인성 면접 질문](./%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8/%EC%9D%B8%EC%84%B1%EB%A9%B4%EC%A0%91.md)
+* [Java]
+* [JavaScript]
