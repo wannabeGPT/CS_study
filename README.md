@@ -25,13 +25,6 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 6회차 주제 (6월 15일)
-### `OS`
+## 7회차 주제 (6월 19일)
+### `네이버 모의면접`
 
-* 운영체제란?
-* 프로세스와 스레드
-* 프로세스 주소 공간
-* 인터럽트
-* 시스템 콜
-* PCB와 Context Switching
-* IPC
