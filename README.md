@@ -25,14 +25,16 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 8회차 주제 (6월 22일)
-### `OS`
-1. CPU 스케쥴링
-2. 데드락
-3. 경쟁 상태
-4. 세마포어와 뮤텍스
-5. 페이징과 세그먼테이션
-6. 페이지 교체 알고리즘
-7. 메모리
-8. 파일 시스템 
+## 8회차 주제 (6월 25일)
+### `Database`
+1. 키(Key)
+2. 조인(Join)
+3. SQL Injection
+4. SQL vs NOSQL
+5. 이상(Anomaly)
+6. 정규화(Normalization)
+7. 트랜잭션(Transaction)
+8. 트랜잭션 격리 수준
+9. 레디스(Redis)
+10. 저장 프로시저(Stored PROCEDURE)
 
