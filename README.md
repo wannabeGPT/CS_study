@@ -25,5 +25,5 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 8회차 주제 (6월 29일)
-### `OS CPU 스케쥴링~`
+## 10회차 주제 (7월 2일)
+### `디자인패턴`
