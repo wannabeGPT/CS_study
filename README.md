@@ -25,13 +25,13 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 9회차 주제 (7월 6일)
+## 10회차 주제 (7월 13일)
 ### `네트워크`
-1. OSI 7계층
-2. TCP 3 & 4 way handshake
-3. TCP/IP 흐름제어 & 혼잡제어
-4. UDP
-5. 로드밸런싱(Load Balancing)
+1. 대칭키 & 공개키
+2. HTTP & HTTPS
+3. TLS/SSL HandShake
+4. Blocking/Non-blocking & Synchronous/Asynchronous
+5. Blocking & Non-Blocking I/O
 
 ## 💻 타임 테이블
 
