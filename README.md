@@ -25,7 +25,7 @@
 - [기술면접 빈출 질문2](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)
 
-## 10회차 주제 (7월 13일)
+## 10회차 주제 (7월 17일)
 ### `네트워크`
 1. 대칭키 & 공개키
 2. HTTP & HTTPS
